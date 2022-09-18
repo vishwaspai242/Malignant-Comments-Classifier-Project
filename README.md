@@ -30,5 +30,5 @@ The data set includes:
 - Loathe: It describes the comments which are hateful and loathing in nature.
 - ID: It includes unique Ids associated with each comment text given.
 - Comment text: This column contains the comments extracted from various social media platforms.
-- 
+
 This project is more about exploration, feature engineering and classification that can be done on this data. Since the data set is huge and includes many categories of comments, we can do good amount of data exploration and derive some interesting features using the comments text column available. You need to build a model that can differentiate between comments and its categories.
