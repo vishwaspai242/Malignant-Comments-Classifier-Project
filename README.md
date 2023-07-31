@@ -1,4 +1,4 @@
-# Malignant-Comments-Classifier-Project-----Flip-Robo
+# Malignant-Comments-Classifier-Project
 
 Predicting the Malignant Comments
 
